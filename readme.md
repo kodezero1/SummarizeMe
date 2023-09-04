@@ -1,8 +1,8 @@
-# AI Summarizer
+# SummarizeMe
 
 ## Overview
 
-The AI Summarizer is a web application that leverages the power of artificial intelligence to generate concise and coherent summaries of lengthy texts. This project is built using React for the frontend, Redux for state management, and Tailwind CSS for modern and responsive styling. It utilizes the RapidAPI platform to access an AI-based text summarization API.
+The SummarizeMe is a web application that leverages the power of artificial intelligence to generate concise and coherent summaries of lengthy texts. This project is built using React for the frontend, Redux for state management, and Tailwind CSS for modern and responsive styling. It utilizes the RapidAPI platform to access an AI-based text summarization API.
 
 ## Features
 
@@ -13,7 +13,7 @@ The AI Summarizer is a web application that leverages the power of artificial in
 
 ## Getting Started
 
-Follow these steps to set up and run the AI Summarizer locally:
+Follow these steps to set up and run the SummarizeMe locally:
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
@@ -22,11 +22,11 @@ Follow these steps to set up and run the AI Summarizer locally:
 
 1 / 2
 
-# AI Summarizer
+# SummarizeMe
 
 ## Overview
 
-The AI Summarizer is a web application that leverages the power of artificial intelligence to generate concise and coherent summaries of lengthy texts. This project is built using React for the frontend, Redux for state management, and Tailwind CSS for modern and responsive styling. It utilizes the RapidAPI platform to access an AI-based text summarization API.
+The SummarizeMe is a web application that leverages the power of artificial intelligence to generate concise and coherent summaries of lengthy texts. This project is built using React for the frontend, Redux for state management, and Tailwind CSS for modern and responsive styling. It utilizes the RapidAPI platform to access an AI-based text summarization API.
 
 ## Features
 
@@ -37,7 +37,7 @@ The AI Summarizer is a web application that leverages the power of artificial in
 
 ## Getting Started
 
-Follow these steps to set up and run the AI Summarizer locally:
+Follow these steps to set up and run SummarizeMe locally:
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
@@ -57,7 +57,7 @@ export const API_KEY = 'YOUR_RAPIDAPI_KEY';
 
 3.  **Run the Application**: Start the development server to run the application locally.
 npm start
-Access the Application: Open your web browser and navigate to http://localhost:3000 to access the AI Summarizer.
+Access the Application: Open your web browser and navigate to http://localhost:3000 to access SummarizeMe.
 
 ## Usage
 Enter or paste the text you want to summarize into the provided input field.
