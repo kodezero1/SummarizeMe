@@ -20,7 +20,6 @@ Follow these steps to set up and run the SummarizeMe locally:
    ```shell
    git clone https://github.com/your-username/ai-summarizer.git
 
-1 / 2
 
 # SummarizeMe
 
